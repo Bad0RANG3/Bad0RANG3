@@ -126,7 +126,7 @@ int main() {
 
 如果你喜欢我的项目，请给它们一个 ⭐️！
 
-![money](fawo.png)
+![money](fawo.jpg)
 
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00ff88&center=true&vCenter=true&width=500&lines=感谢访问我的个人主页！;期待与你的交流与合作！" alt="Typing SVG" />
