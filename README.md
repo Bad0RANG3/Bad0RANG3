@@ -72,7 +72,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://namemc.com/profile/Bad0RANG3)
 [![CS2](https://img.shields.io/badge/CS2-FF5500?style=for-the-badge&logo=counter-strike&logoColor=white)](https://settings.gg/Bad0RANG3)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Bad0RANG3)
-[![网易云音乐](https://img.shields.io/badge/网易云音乐-C20C0C?style=for-the-badge&logo=neteasecloudmusic&logoColor=white)](https://music.163.com/#/user/home?id=Bad0RANG3)
+[![网易云音乐](https://img.shields.io/badge/网易云音乐-C20C0C?style=for-the-badge&logo=neteasecloudmusic&logoColor=white)](https://music.163.com/#/user/home?id=1864136351)
 
 街机：舞萌(16003) · 舞立方(2098)  都是代的（
 
