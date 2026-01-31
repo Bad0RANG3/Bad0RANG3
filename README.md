@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=👋+你好，我是+Bad0RANG3!;🚀+视频特效制作师+|+逆向工程师;💻+热爱技术+|+终身学习者" alt="Typing SVG" />
