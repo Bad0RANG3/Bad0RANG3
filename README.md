@@ -29,10 +29,8 @@
 
 ---
 
-<div align="center">
 ## 💻 技术栈
-</div>
-<p align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,7 +51,6 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF0066?style=for-the-badge&logo=flstudio&logoColor=white)
-</p>
 
 ---
 
