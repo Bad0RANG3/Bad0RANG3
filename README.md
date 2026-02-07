@@ -44,7 +44,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![X64](https://img.shields.io/badge/X64-6699FF?style=for-the-badge&logo=cpu&logoColor=white)
+![X64](https://img.shields.io/badge/X64-6699FF?style=for-the-badge&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex-rays&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -54,7 +54,6 @@
 
 ---
 
----
 
 ## 🎮 游戏与娱乐
 
