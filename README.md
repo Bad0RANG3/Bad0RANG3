@@ -1,26 +1,13 @@
-<div align="center">
-
 <h1>
 👋Hi,there!
 </h1>
 
-</div>
-
-
-## 🎯 个人信息
-
-| 🎂 生日 | 📍 位置 | 💼 职业 | 🎓 状态 |
-|---------|---------|---------|---------|
-| 2008-03-03 | 广东 河源 | 在校学生 | 学习中 |
-
----
-
-## 🌐 社交媒体
+## 🌐 Social Media
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bad0RANG3)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bad0RANG3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Bad0RANG3ovo)
-[![抖音](https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8)
+[![Douyin](https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badorangeovo@outlook.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bad0RANG3)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/Bad0RANG3)
@@ -28,7 +15,7 @@
 
 ---
 
-## 💻 技术栈
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +35,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-## 🔨 开发工具
+## 🔨 Development Tools
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
 [![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 [![iPhone 11](https://img.shields.io/badge/iPhone_11-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/)
@@ -65,28 +52,18 @@
 
 ---
 
-
-## 🎮 游戏与娱乐
+## 🎮 Games
 
 [![osu!](https://img.shields.io/badge/osu!-FF66AB?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh/users/38542824)
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://namemc.com/profile/Bad0RANG3)
 [![CS2](https://img.shields.io/badge/CS2-FF5500?style=for-the-badge&logo=counter-strike&logoColor=white)](https://settings.gg/Bad0RANG3)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Bad0RANG3)
 [![网易云音乐](https://img.shields.io/badge/网易云音乐-C20C0C?style=for-the-badge&logo=neteasecloudmusic&logoColor=white)](https://music.163.com/#/user/home?id=1864136351)
-
-街机：舞萌(14382) · 舞立方(2100·表神)
-
----
-
-## 👤 个人档案
-
-| 🎭 性格 | 🎮 游戏 | 🌙 作息 | 💪 抗压 |
-|---------|---------|---------|---------|
-| ISFP-T | 枪软身法还行 | 作息颠倒 | 吃压力，放心骂 |
+Maimai(14382) · Dance Cube•Show (2100·表神)
 
 ---
 
-## 💭 心情状态
+## 💭 Mood
 
 ```cpp
 #include <iostream>
@@ -97,21 +74,21 @@ int main() {
     return 0;
 }
 ```
-
 ---
 
-## 🌈 个人名言
+## 🌈 Personal Quotes
 
-> "四大皆空😡😡（指钱包、微信、支付宝和VISA）"
+> "四大皆空😡😡（指钱包、微信、支付宝和Paypal）"
 > 
 > "欢迎和我交朋友^-^"
 > 
 > "愿意和我组一辈子乐队吗？"
 >
 > "听说简历加玩Minecraft就能和周宇一样当Dify.AI的后端工程师"
+
 ---
 
-## 📝 好词好句
+## 📝 Memorable Phrases
 
 > "sudo rm -rf /"
 > 
@@ -121,12 +98,11 @@ int main() {
 
 <div align="center">
 
-## 🤝 支持我
+## 🤝 Support me
 
-如果你喜欢我的项目，请给它们一个 ⭐️！
+If you like my projects, please give them a ⭐️!
 
 ![money](fawo.JPG)
-
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&title=visitors&color=00ff88&style=for-the-badge)
 
