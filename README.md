@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=👋+你好，我是+Bad0RANG3!;🚀+视频特效制作师+|+逆向工程师;💻+热爱技术+|+终身学习者" alt="Typing SVG" />
+👋Hi,there!
 </h1>
 
 </div>
@@ -127,9 +127,6 @@ int main() {
 
 ![money](fawo.JPG)
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=00ff88&center=true&vCenter=true&width=500&lines=感谢访问我的个人主页！;期待与你的交流与合作！" alt="Typing SVG" />
-</h3>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&title=visitors&color=00ff88&style=for-the-badge)
 
