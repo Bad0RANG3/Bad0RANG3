@@ -1,110 +1,164 @@
-<h1>
-👋Hi,there!
-</h1>
-
-## 🌐 Social Media
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bad0RANG3)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Bad0RANG3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Bad0RANG3ovo)
-[![Douyin](https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badorangeovo@outlook.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bad0RANG3)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/Bad0RANG3)
-[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/482966540)
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-## 🔨 Development Tools
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
-[![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
-[![iPhone 11](https://img.shields.io/badge/iPhone_11-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/)
-&nbsp;
-![x64](https://img.shields.io/badge/x64-6699FF?style=for-the-badge&logo=amd&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=hex-rays&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-&nbsp;
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL_Studio-FF0066?style=for-the-badge&logo=flstudio&logoColor=white)
-
----
-
-## 🎮 Games
-
-[![osu!](https://img.shields.io/badge/osu!-FF66AB?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh/users/38542824)
-[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://namemc.com/profile/Bad0RANG3)
-[![CS2](https://img.shields.io/badge/CS2-FF5500?style=for-the-badge&logo=counter-strike&logoColor=white)](https://settings.gg/Bad0RANG3)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Bad0RANG3)
-[![网易云音乐](https://img.shields.io/badge/网易云音乐-C20C0C?style=for-the-badge&logo=neteasecloudmusic&logoColor=white)](https://music.163.com/#/user/home?id=1864136351)
-
-Maimai(14382) · Dance Cube•Show (2100·表神)
-
----
-
-## 💭 Mood
-
-```cpp
-#include <iostream>
-int main() {
-    while (true) {
-        std::cout << "我喜欢你" << std::endl;
-    }
-    return 0;
-}
-```
----
-
-## 🌈 Personal Quotes
-
-> "四大皆空😡😡（指钱包、微信、支付宝和Paypal）"
-> 
-> "欢迎和我交朋友^-^"
-> 
-> "愿意和我组一辈子乐队吗？"
->
-> "听说简历加玩Minecraft就能和周宇一样当Dify.AI的后端工程师"
-
----
-
-## 📝 Memorable Phrases
-
-> "sudo rm -rf /"
-> 
-> "质疑屎山，理解屎山，制造屎山"
-
----
-
 <div align="center">
 
-## 🤝 Support me
+# ✦ Bad0RANG3
 
-If you like my projects, please give them a ⭐️!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=A277FF&center=true&vCenter=true&width=820&lines=Web+%26+Creative+Developer;Reverse+Engineering+Enjoyer;Minecraft+%2F+osu!+%2F+CS2+Player;Music+Production+%26+Midnight+Experiments;Building+Interesting+Things+at+Ungodly+Hours..." />
 
-![money](fawo.JPG)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Bad0RANG3)
+[![X](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=white)](https://x.com/Bad0RANG3)
+[![Telegram](https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Bad0RANG3)
+[![Bilibili](https://img.shields.io/badge/Bilibili-0f172a?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/482966540)
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Bad0RANG3ovo)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:badorangeovo@outlook.com)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&title=visitors&color=00ff88&style=for-the-badge)
+---
+
+### 🌌 About Me
+
+```cpp
+class Bad0RANG3 final {
+public:
+    std::vector<std::string> stack = {
+        "JavaScript", "Python", "Java", "C++", "C#",
+        "Vue", "Tailwind", "Flask", "Spring Boot"
+    };
+
+    std::vector<std::string> hobbies = {
+        "reverse engineering",
+        "building weird little tools",
+        "breaking Minecraft in creative ways",
+        "looping songs at 3AM",
+        "making questionable but interesting ideas work"
+    };
+
+    std::string vibe() const {
+        return "purple nights, loud music, and unfinished side projects";
+    }
+
+    bool overengineer() const {
+        return true;
+    }
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,vue,tailwind,flask,spring,docker,git,vscode,qt&perline=8" alt="tech stack icons" />
+</p>
+
+---
+
+## 🎮 Interests
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🪻 Reverse Engineering
+
+IDA Pro  
+Wireshark  
+Packet Stuff  
+Binary Curiosity  
+"just one more look"
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌃 Games
+
+Minecraft  
+osu!  
+CS2  
+Steam  
+fun first, rank later
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎧 Music & Creation
+
+FL Studio  
+网易云音乐  
+After Effects  
+Photoshop  
+making noise into mood
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🖥 Setup
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,windows,vscode,git,docker,qt&perline=6" alt="setup icons" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/iPhone_11-0f172a?style=flat-square&logo=apple&logoColor=white" alt="iPhone 11" />
+  <img src="https://img.shields.io/badge/x64-0f172a?style=flat-square&logo=amd&logoColor=white" alt="x64" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<p>
+  <img src="https://img.shields.io/github/followers/Bad0RANG3?style=flat-square&color=A277FF&labelColor=0f172a" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Profile-Bad0RANG3-A277FF?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub profile" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&left_color=0f172a&right_color=A277FF" alt="visitor count" />
+</p>
+
+---
+
+## 🌙 Currently
+
+- Turning random midnight ideas into actual projects
+- Breaking, fixing, and re-breaking Minecraft for fun
+- Collecting tools I may or may not need later
+- Trying very hard not to turn every small thing into a big system
+
+---
+
+## 🔗 More Links
+
+<p>
+  <a href="https://youtube.com/Bad0RANG3"><img src="https://img.shields.io/badge/YouTube-0f172a?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8"><img src="https://img.shields.io/badge/抖音-0f172a?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" /></a>
+  <a href="https://osu.ppy.sh/users/38542824"><img src="https://img.shields.io/badge/osu!-0f172a?style=flat-square&logo=osu&logoColor=white" alt="osu!" /></a>
+  <a href="https://namemc.com/profile/Bad0RANG3"><img src="https://img.shields.io/badge/Minecraft-0f172a?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" /></a>
+  <a href="https://settings.gg/Bad0RANG3"><img src="https://img.shields.io/badge/CS2-0f172a?style=flat-square&logo=counter-strike&logoColor=white" alt="CS2" /></a>
+  <a href="https://steamcommunity.com/id/Bad0RANG3"><img src="https://img.shields.io/badge/Steam-0f172a?style=flat-square&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://music.163.com/#/user/home?id=1864136351"><img src="https://img.shields.io/badge/网易云音乐-0f172a?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" /></a>
+</p>
+
+---
+
+## 💫 Favorite Quotes
+
+> "欢迎和我交朋友 ^-^"
+>
+> "质疑屎山，理解屎山，制造屎山"
+>
+> "四大皆空（指钱包、微信、支付宝和 PayPal）"
+
+---
+
+## 🤍 Support
+
+If you like my projects, a star means a lot.
+
+<img src="fawo.JPG" alt="support" width="280" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A277FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
