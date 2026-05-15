@@ -2,7 +2,7 @@
 
 # ✦ Bad0RANG3
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=A277FF&center=true&vCenter=true&width=820&lines=Web+%26+Creative+Developer;Reverse+Engineering+Enjoyer;Minecraft+%2F+osu!+%2F+CS2+Player;Music+Production+%26+Midnight+Experiments;Building+Interesting+Things+at+Ungodly+Hours..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=A277FF&center=true&vCenter=true&width=820&lines=Web+%26+Creative+Developer;Reverse+Engineering+Enjoyer;Minecraft+%2F+MaimaiDX+%2F+CS2+Player;Music+Production+%26+Midnight+Experiments;Building+Interesting+Things+at+Ungodly+Hours..." />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Bad0RANG3)
 [![X](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=white)](https://x.com/Bad0RANG3)
@@ -72,7 +72,7 @@ Binary Curiosity
 ### 🌃 Games
 
 Minecraft  
-osu!  
+MaimaiDX
 CS2  
 Steam  
 fun first, rank later
