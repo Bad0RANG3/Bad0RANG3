@@ -96,8 +96,14 @@ public:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iPhone_11-A277FF?style=flat-square&logo=apple&logoColor=0F172A&labelColor=0F172A" alt="iPhone 11" />
-  <img src="https://img.shields.io/badge/x64_Platform-A277FF?style=flat-square&logo=amd&logoColor=0F172A&labelColor=0F172A" alt="x64" />
+  <img src="https://img.shields.io/badge/CPU-Ryzen_7_9800X3D-A277FF?style=flat-square&logo=amd&logoColor=0F172A&labelColor=0F172A" alt="CPU" />
+  <img src="https://img.shields.io/badge/GPU-RTX_4070_Ti_Super-A277FF?style=flat-square&logo=nvidia&logoColor=0F172A&labelColor=0F172A" alt="GPU" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAM-16GB_DDR5-A277FF?style=flat-square&logoColor=0F172A&labelColor=0F172A" alt="RAM" />
+  <img src="https://img.shields.io/badge/Storage-2TB_WD_SN580-A277FF?style=flat-square&logo=western-digital&logoColor=0F172A&labelColor=0F172A" alt="Storage" />
+  <img src="https://img.shields.io/badge/Mobile-iPhone_11-A277FF?style=flat-square&logo=apple&logoColor=0F172A&labelColor=0F172A" alt="iPhone 11" />
 </p>
 
 ---
