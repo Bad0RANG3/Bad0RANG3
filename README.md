@@ -6,12 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&width=820&lines=Web+%26+Creative+Developer;Reverse+Engineering+Enjoyer;Minecraft+%2F+MaimaiDX+%2F+CS2+Player;Music+Production+%26+Midnight+Experiments;Building+Interesting+Things+at+Ungodly+Hours..." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A277FF)](https://github.com/Bad0RANG3)
-[![X](https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=A277FF)](https://x.com/Bad0RANG3)
-[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=A277FF)](https://t.me/Bad0RANG3)
-[![Bilibili](https://img.shields.io/badge/Bilibili-0F172A?style=for-the-badge&logo=bilibili&logoColor=A277FF)](https://space.bilibili.com/482966540)
-[![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=A277FF)](https://instagram.com/Bad0RANG3ovo)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A277FF)](mailto:badorangeovo@outlook.com)
+<a href="https://github.com/Bad0RANG3"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A277FF" /></a>
+<a href="https://x.com/Bad0RANG3"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=A277FF" /></a>
+<a href="https://t.me/Bad0RANG3"><img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=A277FF" /></a>
+<a href="https://space.bilibili.com/482966540"><img src="https://img.shields.io/badge/Bilibili-0F172A?style=for-the-badge&logo=bilibili&logoColor=A277FF" /></a>
+<a href="https://instagram.com/Bad0RANG3ovo"><img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=A277FF" /></a>
+<a href="mailto:badorangeovo@outlook.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A277FF" /></a>
 
 ---
 
@@ -48,7 +48,7 @@ public:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,vue,tailwind,flask,spring,docker,git,vscode,qt&perline=8" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,cs,c,bash,linux,arch,vue,tailwind,flask,spring,mysql,postgres,docker,git,vscode,qt,ae,ps,figma&perline=8" alt="tech stack icons" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ public:
 ## 🖥 Setup
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,windows,vscode,git,docker,qt&perline=6" alt="setup icons" />
+  <img src="https://skillicons.dev/icons?i=arch,windows,vscode,git,docker,qt,powershell,linux&perline=8" alt="setup icons" />
 </p>
 
 <p align="center">
@@ -110,11 +110,6 @@ public:
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&left_color=0F172A&right_color=A277FF" alt="visitor count" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bad0RANG3&show_icons=true&bg_color=0F172A&title_color=A277FF&icon_color=A277FF&text_color=E2E8F0&border_color=A277FF&hide_border=false" alt="Bad0RANG3's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad0RANG3&layout=compact&bg_color=0F172A&title_color=A277FF&text_color=E2E8F0&border_color=A277FF&hide_border=false" alt="Top Langs" height="180px" />
-</p>
-
 ---
 
 ## 🌙 Currently
@@ -129,13 +124,13 @@ public:
 ## 🔗 More Links
 
 <p align="center">
-  [![YouTube](https://img.shields.io/badge/YouTube-0F172A?style=flat-square&logo=youtube&logoColor=A277FF)](https://youtube.com/Bad0RANG3)
-  [![抖音](https://img.shields.io/badge/抖音-0F172A?style=flat-square&logo=tiktok&logoColor=A277FF)](https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8)
-  [![osu!](https://img.shields.io/badge/osu!-0F172A?style=flat-square&logo=osu&logoColor=A277FF)](https://osu.ppy.sh/users/38542824)
-  [![Minecraft](https://img.shields.io/badge/Minecraft-0F172A?style=flat-square&logo=minecraft&logoColor=A277FF)](https://namemc.com/profile/Bad0RANG3)
-  [![CS2](https://img.shields.io/badge/CS2-0F172A?style=flat-square&logo=counter-strike&logoColor=A277FF)](https://settings.gg/Bad0RANG3)
-  [![Steam](https://img.shields.io/badge/Steam-0F172A?style=flat-square&logo=steam&logoColor=A277FF)](https://steamcommunity.com/id/Bad0RANG3)
-  [![网易云音乐](https://img.shields.io/badge/网易云音乐-0F172A?style=flat-square&logo=neteasecloudmusic&logoColor=A277FF)](https://music.163.com/#/user/home?id=1864136351)
+  <a href="https://youtube.com/Bad0RANG3"><img src="https://img.shields.io/badge/YouTube-0F172A?style=flat-square&logo=youtube&logoColor=A277FF" /></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8"><img src="https://img.shields.io/badge/抖音-0F172A?style=flat-square&logo=tiktok&logoColor=A277FF" /></a>
+  <a href="https://osu.ppy.sh/users/38542824"><img src="https://img.shields.io/badge/osu!-0F172A?style=flat-square&logo=osu&logoColor=A277FF" /></a>
+  <a href="https://namemc.com/profile/Bad0RANG3"><img src="https://img.shields.io/badge/Minecraft-0F172A?style=flat-square&logo=minecraft&logoColor=A277FF" /></a>
+  <a href="https://settings.gg/Bad0RANG3"><img src="https://img.shields.io/badge/CS2-0F172A?style=flat-square&logo=counter-strike&logoColor=A277FF" /></a>
+  <a href="https://steamcommunity.com/id/Bad0RANG3"><img src="https://img.shields.io/badge/Steam-0F172A?style=flat-square&logo=steam&logoColor=A277FF" /></a>
+  <a href="https://music.163.com/#/user/home?id=1864136351"><img src="https://img.shields.io/badge/网易云音乐-0F172A?style=flat-square&logo=neteasecloudmusic&logoColor=A277FF" /></a>
 </p>
 
 ---
