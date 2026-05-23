@@ -149,26 +149,9 @@ public:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bad0RANG3&show_icons=true&hide_border=true&bg_color=2A0E1E&title_color=FF8DC7&text_color=FFEAF4&icon_color=FFB3DA" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bad0RANG3&layout=compact&hide_border=true&bg_color=2A0E1E&title_color=FF8DC7&text_color=FFEAF4" alt="Top languages" />
-
-<br/>
-
 <img src="https://img.shields.io/github/followers/Bad0RANG3?style=flat-square&color=FF8DC7&labelColor=2A0E1E" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/Profile-Bad0RANG3-FF8DC7?style=flat-square&logo=github&logoColor=2A0E1E&labelColor=2A0E1E" alt="GitHub profile" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&left_color=2A0E1E&right_color=FF8DC7" alt="visitor count" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/output/github-contribution-grid-snake.svg" />
-  <img alt="pink github contribution snake" src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
