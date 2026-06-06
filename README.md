@@ -31,8 +31,11 @@
 class Bad0RANG3 final {
 public:
     std::vector<std::string> stack = {
-        "JavaScript", "Python", "Java", "C++", "C#",
-        "Vue", "Tailwind", "Flask", "Spring Boot"
+        "JavaScript", "TypeScript",
+        "Python", "Java", "Kotlin",
+        "C++", "C#", "Rust",
+        "Vue", "Tailwind",
+        "Flask", "Spring Boot"
     };
 
     std::vector<std::string> hobbies = {
@@ -65,7 +68,7 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,cs,c,bash,linux,arch,vue,tailwind,flask,spring,mysql,postgres,docker,git,vscode,qt,ae,ps,figma&perline=9" alt="tech stack icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,rust,cpp,cs,c,bash,linux,arch,vue,tailwind,flask,spring,mysql,postgres,docker,git,vscode,qt,ae,ps,figma&perline=9" alt="tech stack icons" />
 
 </div>
 
@@ -111,44 +114,6 @@ public:
 </td>
 </tr>
 </table>
-
-## 🖥 Hardware & Setup
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-**💻 Workstation**
-<br/><br/>
-<img src="https://img.shields.io/badge/CPU-Ryzen_7_9800X3D-FF8DC7?style=for-the-badge&logo=amd&logoColor=2A0E1E&labelColor=2A0E1E" alt="CPU" />
-<br/>
-<img src="https://img.shields.io/badge/GPU-RTX_4070_Ti_Super-FF8DC7?style=for-the-badge&logo=nvidia&logoColor=2A0E1E&labelColor=2A0E1E" alt="GPU" />
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**💾 Memory & Storage**
-<br/><br/>
-<img src="https://img.shields.io/badge/RAM-16GB_DDR5-FF8DC7?style=for-the-badge&logoColor=2A0E1E&labelColor=2A0E1E" alt="RAM" />
-<br/>
-<img src="https://img.shields.io/badge/SSD-2TB_WD_SN580-FF8DC7?style=for-the-badge&logo=western-digital&logoColor=2A0E1E&labelColor=2A0E1E" alt="Storage" />
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**🧭 Daily Driver**
-<br/><br/>
-<img src="https://img.shields.io/badge/OS-Windows_%2F_Arch-FF8DC7?style=for-the-badge&logo=linux&logoColor=2A0E1E&labelColor=2A0E1E" alt="OS" />
-<br/>
-<img src="https://img.shields.io/badge/Mobile-iPhone_11-FF8DC7?style=for-the-badge&logo=apple&logoColor=2A0E1E&labelColor=2A0E1E" alt="iPhone 11" />
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 📊 GitHub Status
 
