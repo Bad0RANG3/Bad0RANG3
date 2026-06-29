@@ -89,7 +89,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/Bad0RANG3?style=flat-square&color=FF9AD5&labelColor=2A0E1E&logo=github&logoColor=FF9AD5" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Bad0RANG3/Bad0RANG3?style=flat-square&color=FF9AD5&labelColor=2A0E1E&logo=github&logoColor=FF9AD5" alt="Profile repository stars" />
+<img src="https://img.shields.io/badge/Profile-Bad0RANG3-FF9AD5?style=flat-square&labelColor=2A0E1E&logo=github&logoColor=FF9AD5" alt="GitHub profile" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&left_color=2A0E1E&right_color=FF9AD5" alt="visitor count" />
 
 </div>
