@@ -41,11 +41,36 @@
 
 ## Things I Like
 
-| Code | Reverse | Games | Media |
-| --- | --- | --- | --- |
-| Web apps | IDA Pro | Minecraft | FL Studio |
-| Small tools | Wireshark | MaimaiDX | After Effects |
-| Automation | Packet stuff | CS2 | Photoshop |
+<div align="center">
+
+<table>
+<tr>
+<th align="center">Code</th>
+<th align="center">Reverse</th>
+<th align="center">Games</th>
+<th align="center">Media</th>
+</tr>
+<tr>
+<td align="center">Web apps</td>
+<td align="center">IDA Pro</td>
+<td align="center">Minecraft</td>
+<td align="center">FL Studio</td>
+</tr>
+<tr>
+<td align="center">Small tools</td>
+<td align="center">Wireshark</td>
+<td align="center">MaimaiDX</td>
+<td align="center">After Effects</td>
+</tr>
+<tr>
+<td align="center">Automation</td>
+<td align="center">Packet stuff</td>
+<td align="center">CS2</td>
+<td align="center">Photoshop</td>
+</tr>
+</table>
+
+</div>
 
 ## Links
 
