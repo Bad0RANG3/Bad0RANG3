@@ -27,7 +27,7 @@
 ## 02 · STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,go,rust,cpp,c,cs,php,ruby,dart,swift,bash,arch,react,vue,svelte,angular,nextjs,nuxtjs,remix,astro,solidjs,tailwind,bootstrap,sass,materialui,vite,webpack,babel,nodejs,express,fastify,deno,bun,flask,django,fastapi,spring,graphql,npm,pnpm,yarn,mysql,postgres,mongodb,redis,sqlite,mariadb,prisma,supabase,threejs,d3,chartjs,git,github,docker,kubernetes,linux,vim,neovim,vscode,postman,figma,qt,blender,ae,ps&amp;perline=18" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,go,rust,cpp,c,cs,php,ruby,dart,swift,bash,arch,react,vue,svelte,angular,nextjs,nuxtjs,remix,astro,solidjs,tailwind,bootstrap,sass,materialui,vite,webpack,babel,nodejs,express,deno,bun,flask,django,fastapi,spring,graphql,npm,pnpm,yarn,mysql,mongodb,sqlite,threejs,d3,git,github,docker,kubernetes,linux,vim,neovim,vscode,postman,figma,qt,blender,ae,ps&amp;perline=13" alt="tech stack"/>
 </p>
 
 ## 03 · THINGS I LIKE
