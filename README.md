@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/Bad0RANG3"><img src="hero.svg?v=4" width="880" alt="Bad0RANG3 — write code, take apart things, build small tools"/></a>
+  <a href="https://github.com/Bad0RANG3"><img src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/e58cff93765d7f009344a834935e37721260e5dc/hero.svg" width="880" alt="Bad0RANG3 — write code, take apart things, build small tools"/></a>
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@
 ## 03 · THINGS I LIKE
 
 <p align="center">
-  <img src="interests.svg?v=4" width="880" alt="CODE · REVERSE · GAMES · MEDIA"/>
+  <img src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/e58cff93765d7f009344a834935e37721260e5dc/interests.svg" width="880" alt="CODE · REVERSE · GAMES · MEDIA"/>
 </p>
 
 ## 04 · LINKS
@@ -63,6 +63,6 @@
 </p>
 
 <p align="center">
-  <img src="footer.svg?v=4" width="880" alt="THANKS FOR READING · STAY CURIOUS · 谢谢看到这里 · 保持好奇"/>
+  <img src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/e58cff93765d7f009344a834935e37721260e5dc/footer.svg" width="880" alt="THANKS FOR READING · STAY CURIOUS · 谢谢看到这里 · 保持好奇"/>
 </p>
 
