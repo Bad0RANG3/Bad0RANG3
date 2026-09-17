@@ -10,7 +10,7 @@ I'm **Bad0RANG3**. I write web stuff, scripts, and small utilities. I also spend
 - **Creative** · `FL Studio` `After Effects` `Photoshop`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,cpp,rust,react,vue,nodejs,git,docker,linux,vscode,figma,ae,ps&amp;perline=7" alt="Technology logos"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,kotlin,react,vue,nodejs,git,docker,linux,vscode,figma,ae,ps&amp;perline=7" alt="Technology logos"/>
 </p>
 
 ## Things I like
