@@ -1,68 +1,73 @@
-<!--
-  PAPER PUNCH · Bad0RANG3 profile README
-  GitHub-safe build: GitHub strips inline CSS, so the visuals live in
-  SVG assets in this repo (hero.svg / interests.svg / footer.svg)
-  plus shields.io badges. Palette: paper #F8F3E6 · ink #26160E ·
-  coral #F53E36 · yuzu #FEDE23 · teal #00BDBE.
--->
+## About
+
+I'm **Bad0RANG3**. I write web stuff, scripts, and small utilities. I also spend time on reverse engineering, packet analysis, Minecraft, music, video, and games.
+
+## Stack
+
+- **Languages** · `TypeScript` `Python` `C++` `Rust`
+- **Web** · `React` `Vue` `Node.js`
+- **Tools & infra** · `Git` `Docker` `Linux` `Wireshark`
+- **Creative** · `FL Studio` `After Effects` `Photoshop`
 
 <p align="center">
-  <a href="https://github.com/Bad0RANG3"><img src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/e58cff93765d7f009344a834935e37721260e5dc/hero.svg" width="880" alt="Bad0RANG3 — write code, take apart things, build small tools"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,rust,react,vue,nodejs,git,docker,linux,vscode,figma,ae,ps&amp;perline=7" alt="Technology logos"/>
 </p>
 
-<div align="center">
-  <a href="https://github.com/Bad0RANG3"><img src="https://img.shields.io/badge/GitHub-F53E36?style=for-the-badge&amp;logo=github&amp;logoColor=F8F3E6&amp;labelColor=F53E36&amp;color=F53E36" alt="GitHub"/></a>
-  <a href="https://x.com/Bad0RANG3"><img src="https://img.shields.io/badge/X-26160E?style=for-the-badge&amp;logo=x&amp;logoColor=FEDE23&amp;labelColor=26160E&amp;color=26160E" alt="X"/></a>
-  <a href="https://t.me/Bad0RANG3"><img src="https://img.shields.io/badge/Telegram-00BDBE?style=for-the-badge&amp;logo=telegram&amp;logoColor=F8F3E6&amp;labelColor=00BDBE&amp;color=00BDBE" alt="Telegram"/></a>
-  <a href="mailto:badorangeovo@outlook.com"><img src="https://img.shields.io/badge/Email-C9A200?style=for-the-badge&amp;logo=gmail&amp;logoColor=F8F3E6&amp;labelColor=C9A200&amp;color=C9A200" alt="Email"/></a>
+## Things I like
+
+**Build** · web apps, scripts, small tools, automation<br/>
+**Break** · reverse engineering, packets, edge cases<br/>
+**Play** · Minecraft, maimai DX, CS2<br/>
+**Make** · music, video, visuals
+
+## Setup
+
+| Part | Details |
+| :--- | :--- |
+| 🖥️ Desktop | Custom PC |
+| 🧠 CPU | AMD Ryzen 7 9800X3D (8C / 16T) |
+| 🎮 GPU | NVIDIA GeForce RTX 4070 Ti SUPER (16 GB) |
+| 🔧 Motherboard | MSI B850MPOWER (MS-7E83) |
+| 💾 Memory | 32 GB DDR5-6000 (16 GB × 2) |
+| ⚡ SSD | WD Blue SN580 2 TB NVMe |
+| 🪟 OS | Windows 11 Pro 25H2 · Arch Linux |
+| 📱 Phone | iPhone 17 Pro |
+
+## Find me
+
+<p align="center">
+  <strong>Bad0RANG3</strong><br/>
+  <sub>web · tools · reverse · games</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bad0RANG3"><img src="https://img.shields.io/badge/GitHub-EC407A?style=for-the-badge&amp;logo=github&amp;logoColor=FFF5F8&amp;labelColor=AD1457&amp;color=EC407A" alt="GitHub"/></a>
+  <a href="https://x.com/Bad0RANG3"><img src="https://img.shields.io/badge/X-F48FB1?style=for-the-badge&amp;logo=x&amp;logoColor=FFF5F8&amp;labelColor=C2185B&amp;color=F48FB1" alt="X"/></a>
+  <a href="https://t.me/Bad0RANG3"><img src="https://img.shields.io/badge/Telegram-EF6697?style=for-the-badge&amp;logo=telegram&amp;logoColor=FFF5F8&amp;labelColor=D81B60&amp;color=EF6697" alt="Telegram"/></a>
+  <a href="mailto:badorangeovo@outlook.com"><img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&amp;logo=gmail&amp;logoColor=AD1457&amp;labelColor=F8BBD0&amp;color=F48FB1" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <a href="https://space.bilibili.com/482966540"><img src="https://img.shields.io/badge/Bilibili-EC407A?style=flat-square&amp;logo=bilibili&amp;logoColor=FFF5F8&amp;labelColor=AD1457&amp;color=EC407A" alt="Bilibili"/></a>
+  <a href="https://youtube.com/Bad0RANG3"><img src="https://img.shields.io/badge/YouTube-F48FB1?style=flat-square&amp;logo=youtube&amp;logoColor=7A1239&amp;labelColor=F48FB1&amp;color=EC407A" alt="YouTube"/></a>
+  <a href="https://instagram.com/Bad0RANG3ovo"><img src="https://img.shields.io/badge/Instagram-EF6697?style=flat-square&amp;logo=instagram&amp;logoColor=FFF5F8&amp;labelColor=D81B60&amp;color=EF6697" alt="Instagram"/></a>
+  <a href="https://steamcommunity.com/id/Bad0RANG3"><img src="https://img.shields.io/badge/Steam-C2185B?style=flat-square&amp;logo=steam&amp;logoColor=FFF5F8&amp;labelColor=C2185B&amp;color=EC407A" alt="Steam"/></a>
+  <a href="https://namemc.com/profile/Bad0RANG3"><img src="https://img.shields.io/badge/NameMC-F8BBD0?style=flat-square&amp;labelColor=F8BBD0&amp;color=F48FB1" alt="NameMC"/></a>
+  <a href="https://settings.gg/Bad0RANG3"><img src="https://img.shields.io/badge/CS2%20Settings-EC407A?style=flat-square&amp;labelColor=AD1457&amp;color=EC407A" alt="CS2 Settings"/></a>
+  <a href="https://music.163.com/#/user/home?id=1864136351"><img src="https://img.shields.io/badge/NetEase%20Music-D81B60?style=flat-square&amp;labelColor=D81B60&amp;color=F48FB1" alt="NetEase Music"/></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8"><img src="https://img.shields.io/badge/Douyin-AD1457?style=flat-square&amp;logo=tiktok&amp;logoColor=FFF5F8&amp;labelColor=AD1457&amp;color=EC407A" alt="Douyin"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Bad0RANG3?style=flat-square&amp;color=EC407A&amp;labelColor=AD1457&amp;logo=github&amp;logoColor=FFF5F8" alt="GitHub followers"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&amp;left_color=AD1457&amp;right_color=F48FB1" alt="Visitor count"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-EC407A?style=flat-square&amp;labelColor=FCE4EC&amp;color=EC407A" alt="Status online"/>
+</p>
+
+## Support
+
+<p align="center">
+  <img src="./fawo.JPG" width="180" alt="Support Bad0RANG3"/>
   <br/>
-  <img src="https://img.shields.io/github/followers/Bad0RANG3?style=flat-square&amp;color=FEDE23&amp;labelColor=26160E&amp;logo=github&amp;logoColor=F8F3E6" alt="GitHub followers"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bad0RANG3.Bad0RANG3&amp;left_color=26160E&amp;right_color=F53E36" alt="visitor count"/>
-</div>
-
-## 01 · ABOUT
-
-<p>我是 <b>Bad0RANG3</b>，喜欢把感兴趣的东西拆开看看，也喜欢把突然冒出来的想法做成能跑的小项目。主要写 Web、工具、脚本和一些 Minecraft 相关的小东西；对逆向、网络包、客户端行为和奇怪的边界情况比较感兴趣；偶尔做音乐、剪视频、调视觉效果，也会打 MaimaiDX 和 CS2。</p>
-
-## 02 · STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,go,rust,cpp,c,cs,php,ruby,dart,swift,bash,arch,react,vue,svelte,angular,nextjs,nuxtjs,remix,astro,solidjs,tailwind,bootstrap,sass,materialui,vite,webpack,babel,nodejs,express,deno,bun,flask,django,fastapi,spring,graphql,npm,pnpm,yarn,mysql,mongodb,sqlite,threejs,d3,git,github,docker,kubernetes,linux,vim,neovim,vscode,postman,figma,qt,blender,ae,ps&amp;perline=13" alt="tech stack"/>
+  <sub>If you found something useful here, coffee is appreciated. ♡</sub>
 </p>
-
-## 03 · THINGS I LIKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/e58cff93765d7f009344a834935e37721260e5dc/interests.svg" width="880" alt="CODE · REVERSE · GAMES · MEDIA"/>
-</p>
-
-## 04 · LINKS
-
-<p align="center"><b><i>SOCIAL</i></b></p>
-<div align="center">
-  <a href="https://space.bilibili.com/482966540"><img src="https://img.shields.io/badge/Bilibili-F53E36?style=for-the-badge&amp;logo=bilibili&amp;logoColor=F8F3E6&amp;labelColor=F53E36&amp;color=F53E36" alt="Bilibili"/></a>
-  <a href="https://youtube.com/Bad0RANG3"><img src="https://img.shields.io/badge/YouTube-26160E?style=for-the-badge&amp;logo=youtube&amp;logoColor=F8F3E6&amp;labelColor=26160E&amp;color=26160E" alt="YouTube"/></a>
-  <a href="https://instagram.com/Bad0RANG3ovo"><img src="https://img.shields.io/badge/Instagram-00BDBE?style=for-the-badge&amp;logo=instagram&amp;logoColor=F8F3E6&amp;labelColor=00BDBE&amp;color=00BDBE" alt="Instagram"/></a>
-</div>
-
-<p align="center"><b><i>PLAY &amp; MORE</i></b></p>
-<div align="center">
-  <a href="https://steamcommunity.com/id/Bad0RANG3"><img src="https://img.shields.io/badge/Steam-00BDBE?style=for-the-badge&amp;logo=steam&amp;logoColor=F8F3E6&amp;labelColor=00BDBE&amp;color=00BDBE" alt="Steam"/></a>
-  <a href="https://settings.gg/Bad0RANG3"><img src="https://img.shields.io/badge/CS2%20Rating-C9A200?style=for-the-badge&amp;labelColor=C9A200&amp;color=C9A200" alt="CS2 Rating"/></a>
-  <a href="https://namemc.com/profile/Bad0RANG3"><img src="https://img.shields.io/badge/NameMC-F53E36?style=for-the-badge&amp;labelColor=F53E36&amp;color=F53E36" alt="NameMC"/></a>
-  <a href="https://music.163.com/#/user/home?id=1864136351"><img src="https://img.shields.io/badge/NetEase%20Music-26160E?style=for-the-badge&amp;labelColor=26160E&amp;color=26160E" alt="NetEase Music"/></a>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAA3y9usLYBic-19MR78rfDbN-VmS3RhnVMmlZMmnt39m8"><img src="https://img.shields.io/badge/Douyin-00BDBE?style=for-the-badge&amp;logo=tiktok&amp;logoColor=F8F3E6&amp;labelColor=00BDBE&amp;color=00BDBE" alt="Douyin"/></a>
-</div>
-
-## 05 · SUPPORT
-
-<p align="center">
-  <img src="fawo.JPG" width="220" alt="support"/>
-  <br/>
-  <b><i>SUPPORT · 支持一下</i></b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bad0RANG3/Bad0RANG3/e58cff93765d7f009344a834935e37721260e5dc/footer.svg" width="880" alt="THANKS FOR READING · STAY CURIOUS · 谢谢看到这里 · 保持好奇"/>
-</p>
-
