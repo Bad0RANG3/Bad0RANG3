@@ -4,7 +4,7 @@ I'm **Bad0RANG3**. I write web stuff, scripts, and small utilities. I also spend
 
 ## Stack
 
-- **Languages** · `TypeScript` `Python` `C++` `Rust`
+- **Languages** · `TypeScript` `Python` `C++` `Kotlin`
 - **Web** · `React` `Vue` `Node.js`
 - **Tools & infra** · `Git` `Docker` `Linux` `Wireshark`
 - **Creative** · `FL Studio` `After Effects` `Photoshop`
