@@ -61,7 +61,7 @@ Hey, I'm **Bad0RANG3**. I like taking things apart to see how they work, then tu
   <a href="https://github.com/Bad0RANG3"><img src="https://img.shields.io/badge/GitHub-EC407A?style=for-the-badge&amp;logo=github&amp;logoColor=FFF5F8&amp;labelColor=AD1457&amp;color=EC407A" alt="GitHub" /></a>
   <a href="https://x.com/Bad0RANG3"><img src="https://img.shields.io/badge/X-F48FB1?style=for-the-badge&amp;logo=x&amp;logoColor=FFF5F8&amp;labelColor=C2185B&amp;color=F48FB1" alt="X" /></a>
   <a href="https://t.me/Bad0RANG3"><img src="https://img.shields.io/badge/Telegram-EF6697?style=for-the-badge&amp;logo=telegram&amp;logoColor=FFF5F8&amp;labelColor=D81B60&amp;color=EF6697" alt="Telegram" /></a>
-  <a href="mailto:badorangeovo@outlook.com"><img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&amp;logo=gmail&amp;logoColor=AD1457&amp;labelColor=F8BBD0&amp;color=F48FB1" alt="Email" /></a>
+  <a href="mailto:i@bad0rang3.xyz"><img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&amp;logo=gmail&amp;logoColor=AD1457&amp;labelColor=F8BBD0&amp;color=F48FB1" alt="Email" /></a>
 </p>
 
 <p align="center">
