@@ -28,11 +28,12 @@ Hey, I'm **Bad0RANG3**. I like taking things apart to see how they work, then tu
 
 ## 03 · Things I Like
 
-|:--|:--|
-| 🛠️ **Build** | Web apps, scripts, small tools, and automation |
-| 🔍 **Break** | Reverse engineering, packet analysis, and edge cases |
-| 🎮 **Play** | Minecraft, maimai DX, and CS2 |
-| 🎛️ **Make** | Music, video, and visuals |
+<p align="center">
+  🛠️ <strong>Build</strong> — Web apps, scripts, small tools, and automation<br />
+  🔍 <strong>Break</strong> — Reverse engineering, packet analysis, and edge cases<br />
+  🎮 <strong>Play</strong> — Minecraft, maimai DX, and CS2<br />
+  🎛️ <strong>Make</strong> — Music, video, and visuals
+</p>
 
 ## 04 · GitHub Stats
 
@@ -43,16 +44,16 @@ Hey, I'm **Bad0RANG3**. I like taking things apart to see how they work, then tu
 
 ## 05 · Setup
 
-| Part | Details |
-|:--|:--|
-| 🖥️ Desktop | Custom PC |
-| 🧠 CPU | AMD Ryzen 7 9800X3D · 8 cores / 16 threads |
-| 🎮 GPU | NVIDIA GeForce RTX 4070 Ti SUPER · 16 GB |
-| 🔧 Motherboard | MSI B850MPOWER · MS-7E83 |
-| 💾 Memory | 32 GB DDR5-6000 · 2 × 16 GB |
-| ⚡ Storage | WD Blue SN580 · 2 TB NVMe |
-| 🪟 OS | Windows 11 Pro 25H2 · Arch Linux |
-| 📱 Phone | iPhone 17 Pro |
+<p align="center">
+  🖥️ <strong>Desktop</strong> — Custom PC<br />
+  🧠 <strong>CPU</strong> — AMD Ryzen 7 9800X3D · 8 cores / 16 threads<br />
+  🎮 <strong>GPU</strong> — NVIDIA GeForce RTX 4070 Ti SUPER · 16 GB<br />
+  🔧 <strong>Motherboard</strong> — MSI B850MPOWER · MS-7E83<br />
+  💾 <strong>Memory</strong> — 32 GB DDR5-6000 · 2 × 16 GB<br />
+  ⚡ <strong>Storage</strong> — WD Blue SN580 · 2 TB NVMe<br />
+  🪟 <strong>OS</strong> — Windows 11 Pro 25H2 · Arch Linux<br />
+  📱 <strong>Phone</strong> — iPhone 17 Pro
+</p>
 
 ## 06 · Find Me
 
