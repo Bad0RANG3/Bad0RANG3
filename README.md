@@ -28,7 +28,6 @@ Hey, I'm **Bad0RANG3**. I like taking things apart to see how they work, then tu
 
 ## 03 · Things I Like
 
-|  |  |
 |:--|:--|
 | 🛠️ **Build** | Web apps, scripts, small tools, and automation |
 | 🔍 **Break** | Reverse engineering, packet analysis, and edge cases |
